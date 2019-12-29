@@ -13,4 +13,4 @@ Start
 ```
 npm start
 ```
-![boxcritters](screenshot1.png)
+![boxcritters](screenshot.png)
