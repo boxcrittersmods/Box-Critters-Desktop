@@ -2,7 +2,7 @@
 Source code of Box Critters desktop app based on Electron.
 ![boxcritters](screenshot1.png)
 
-##Installation
+## Installation
 
 Install dependencies
 ```
